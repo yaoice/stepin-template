@@ -39,7 +39,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: litebeecloud.hrlyit.com
+    - host: lite.bcys.com
       paths:
         - path: /stepin
           pathType: Prefix
